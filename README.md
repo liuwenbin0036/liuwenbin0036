@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @liuwenbin0036
-- 👀 I’m interested in theoretical physics, specially quantum gravity.Moreover, I'm fond of philosophy, history and literature(e.g. classical Chinese literature).
+- 👋 Hi, I’m @liuwenbin0036.
+- 👀 I’m interested in theoretical physics, specially quantum gravity. Moreover, I'm fond of philosophy, history and literature(e.g. classical Chinese literature).
 - 🌱 I’m currently studying for my doctorate about theoretical physics, in Huazhong University of Science and Technology, Wuhan, China.
 - 📫Contact me through e-mail 3350212008@qq.com, if you need.
 
